@@ -14,6 +14,7 @@ To install the necessary requirements, use the following command:
 
 ```sh
 pip install -r requirements.txt
+```
 
 ## Overview
 
