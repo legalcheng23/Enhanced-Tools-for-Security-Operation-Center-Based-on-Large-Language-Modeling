@@ -1,10 +1,19 @@
 # Enhanced Tools for Security Operation Center Based on Large Language Modeling
 
 ## Equipment
+
 - **GPU**: RTX 3070 Ti
 - **CPU**: Intel i5-12400
 - **Memory**: 32GB DDR4-3200
 - **Operating System**: Windows 11
+- **Torch Version**: 2.1.2+cu118
+
+## Requirements Installation
+
+To install the necessary requirements, use the following command:
+
+```sh
+pip install -r requirements.txt
 
 ## Overview
 
