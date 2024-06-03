@@ -121,6 +121,5 @@ In developing this project, the following studies were referenced:
 5. [PhiUSIL Phishing URL Dataset](https://archive.ics.uci.edu/dataset/967/phiusil-phishing-url-dataset)
 6. [URLTran: Improving Phishing URL Detection via Transformers](https://github.com/bfilar/URLTran)
 7. [PyShark: Python wrapper for Tshark, the network traffic analyzer](https://github.com/KimiNewt/pyshark)
-8. 
 
 
