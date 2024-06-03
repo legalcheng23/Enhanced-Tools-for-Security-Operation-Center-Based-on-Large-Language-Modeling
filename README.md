@@ -1,5 +1,11 @@
 # Enhanced Tools for Security Operation Center Based on Large Language Modeling
 
+## Equipment
+- **GPU**: RTX 3070 Ti
+- **CPU**: Intel i5-12400
+- **Memory**: 32GB DDR4-3200
+- **Operating System**: Windows 11
+
 ## Overview
 
 This project aims to integrate the BERT model with Ollama and Lily-Cybersecurity-7B-v0.2 using URLTran to develop a phishing URL detection and real-time monitoring system. By deploying the BERT model as a service, configuring PyShark to capture network traffic, and integrating the results into the existing system, we aim to achieve comprehensive real-time monitoring and phishing URL detection. This system will alert users if a malicious URL is accessed and offer detailed risk reports upon request.
