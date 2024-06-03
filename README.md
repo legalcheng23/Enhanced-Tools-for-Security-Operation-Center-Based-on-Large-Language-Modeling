@@ -123,5 +123,4 @@ In developing this project, the following studies were referenced:
 7. [PyShark: Python wrapper for Tshark, the network traffic analyzer](https://github.com/KimiNewt/pyshark)
 8. 
 
-## Contributors
-- [Pin Jhu, Lai](https://github.com/LaiPinJhu)
+
