@@ -6,7 +6,6 @@
 - **CPU**: Intel i5-12400
 - **Memory**: 32GB DDR4-3200
 - **Operating System**: Windows 11
-- **Torch Version**: 2.1.2+cu118
 
 ## Requirements Installation
 
